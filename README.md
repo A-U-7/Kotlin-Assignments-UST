@@ -64,6 +64,6 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 <div align="center">
   <p>Built by <a href="https://github.com/amit-upadhyay">Amit Upadhyay</a> using Kotlin | &copy; 2025</p>
   <p>
-    <a href="#">Back to top</a>
+    <a href="https://kotlinlang.org/docs/releases.html">Explore Kotlin</a>
   </p>
 </div>
